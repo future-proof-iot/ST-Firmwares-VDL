@@ -8,4 +8,12 @@ We are in the process of moving the open source code for VDL-C and VDL-Rust resp
 
 We'll link to these repos asap here. Stay tuned!
 
+In the meantime, try Ariel OS out on the hardware:
+
+- Open source Ariel OS support for the STEVAL-MKBOXPRO available at https://ariel-os.github.io/ariel-os/dev/docs/book/boards/st-steval-mkboxpro.html 
+
+- First steps guide: https://github.com/ariel-os/ariel-os#getting-started 
+
+- Open source Rust drivers for ST MEMS available at https://github.com/STMicroelectronics/st-mems-rust-drivers 
+
 
